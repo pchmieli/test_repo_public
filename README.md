@@ -11,3 +11,4 @@ Table names can contain database prefix. So **default.table** is accepted by the
 * **/invalidate/** invalidates whole metastore
 * **/invalidate/<table>** invalidates metastore data related to only one table
 
+zmiana
